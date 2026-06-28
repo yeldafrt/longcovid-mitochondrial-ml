@@ -1,3 +1,14 @@
+## License and Citation
+
+This repository is shared to support transparency, reproducibility, and peer review of the associated manuscript.
+
+Copyright (c) 2026 Yelda Fırat.
+
+The source code is distributed under the MIT License. If you use, modify, or adapt this code in academic work, please cite the associated manuscript:
+
+"Mitochondrial Dysfunction Signatures Predict Long COVID Persistence: A Multi-Cohort Machine Learning Approach Using Transcriptomic Data"
+
+
 MIT License
 
 Copyright (c) 2026 yeldafrt
